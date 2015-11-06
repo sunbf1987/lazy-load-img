@@ -1,6 +1,5 @@
 /**
  * Created by zhiqiang on 2015/10/14.
- * zhiqiang21@staff.sina.com.cn
  * 图片的懒加载
  **/
 module.exports = function(node) {
